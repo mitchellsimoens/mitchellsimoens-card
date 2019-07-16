@@ -49,6 +49,7 @@ jobs:
           command: echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
       - run: yarn
       - run: yarn lint
+      - run: yarn build
       - run: npm publish
 
 workflows:
