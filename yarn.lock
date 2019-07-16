@@ -246,10 +246,10 @@ balanced-match@^1.0.0:
   resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.0.tgz#89b4d199ab2bee49de164ea02b89ce462d71b767"
   integrity sha1-ibTRmasr7kneFk6gK4nORi1xt2c=
 
-biz-carderator@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/biz-carderator/-/biz-carderator-1.0.0.tgz#76adbcad32a7a0904de5908901e804299a898026"
-  integrity sha512-wPogQ/yoE9ZWxjmghG6jK6vuELn0d6IHvW9NoJuerqKXaXLNBBm3/6R/0+F4BjOGQzSPl3roenA7zZsdEzJsUQ==
+biz-carderator@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/biz-carderator/-/biz-carderator-1.0.1.tgz#01b106cccc8aed1a07a73b1021092dabfc6b8bd4"
+  integrity sha512-oUZrCzmkuB+wnKdwj+uoz1QTaRUYC4P31zGP+8ow99WBhSgu1/6p+lLEiF8WZlbPUqxGgh7yVCkYGkCaNb76VQ==
   dependencies:
     boxen "4.1.0"
     colorette "1.1.0"

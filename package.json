@@ -54,7 +54,7 @@
     ]
   },
   "dependencies": {
-    "biz-carderator": "1.0.0",
+    "biz-carderator": "1.0.1",
     "boxen": "4.1.0",
     "colorette": "1.1.0",
     "read-pkg": "5.2.0"
