@@ -1,6 +1,6 @@
 {
   "name": "mitchellsimoens",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Business card for Mitchell Simoens",
   "main": "index.js",
   "bin": {
