@@ -1,6 +1,6 @@
+import carderator from 'biz-carderator';
 import path from 'path';
 import readPkg from 'read-pkg';
-import carderator from './biz-carderator';
 
 (async (): Promise<void> => {
   const packageJson = await readPkg({
