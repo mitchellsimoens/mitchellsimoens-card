@@ -74,7 +74,6 @@ workflows:
   publish:
     jobs:
       - publish:
-          context: deploy-creds
           filters:
             branches:
               ignore: /.*/
